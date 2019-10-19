@@ -9,10 +9,10 @@ See http://feitam.es/kafka-connect-http-sink-first-steps-installation-configurat
 
 ### Prerequisites
 
-nodejs:  v10.16.2
-docker: Docker version 18.09.3, build 774a1f4
-docker-compose: docker-compose version 1.18.0, build 8dd22a9
-kafka_cli: 2.12-2.3.0
+* nodejs:  v10.16.2
+* docker: Docker version 18.09.3, build 774a1f4
+* docker-compose: docker-compose version 1.18.0, build 8dd22a9
+* kafka_cli: 2.12-2.3.0
 
 
 ## Built With
