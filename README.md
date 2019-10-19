@@ -7,7 +7,7 @@ Installation, configuration, errors manager and monitoring
 See http://feitam.es/kafka-connect-http-sink-first-steps-installation-configuration-errors-monitoring/
 
 
-### Prerequisites
+## Prerequisites
 
 * nodejs:  v10.16.2
 * docker: Docker version 18.09.3, build 774a1f4
@@ -21,22 +21,15 @@ See http://feitam.es/kafka-connect-http-sink-first-steps-installation-configurat
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Confluent Kafka](https://www.confluent.io) - The event streaming platform for Apache Kafka
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Juan Luis Sánchez Vázquez** - *Initial work* - [jlsvfeitam](https://github.com/jlsvfeitam)
+* **Juan Luis Sánchez Vázquez** - *Initial work* - [Github](https://github.com/jlsvfeitam) | [Linkedin](https://www.linkedin.com/in/jlsanchezvazquez/?originalSubdomain=es) | [Juan Luis Sánchez Vázquez in http://feitam.es](http://feitam.es/author/juan-luis-sanchez-vazquez/)
 
 ## License
 
 This project is licensed under the Crative Commons BY-NC-SA 4.0 License - see the [License Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ](https://creativecommons.org/licenses/by-nc-sa/4.0/) page for details
 
-## Acknowledgments
+
 
 
